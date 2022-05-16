@@ -1,0 +1,9 @@
+Nama: Putra
+Umur: 19
+Alamat: Sragen
+Nama: Putra
+Umur: 19
+Alamat: SZragen
+Nama: Prima
+Umur: 18
+Alamat: Sragen
